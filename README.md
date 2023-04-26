@@ -1,2 +1,2 @@
-# 3D-Models
-A 3D airplane made with IntelliJ and OpenSCAD
+# JavaCSG-intro
+Intro to framework created by Tobias Grundtvig @tgrundtvig
