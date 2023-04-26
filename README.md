@@ -1,2 +1,2 @@
 # 3D-Models
-A collection of 3D models made with IntelliJ
+A 3D airplane made with IntelliJ and OpenSCAD
